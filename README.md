@@ -24,7 +24,7 @@ Importing Lib
 Loading Data
 Understanding Data
 Missing Values
-Exploring Variables(Data Anyalysis)
+Exploring Variables(Data Analysis)
 Feature Selection
 Proportion of Good vs Bad Wines
 Preparing Data for Modelling
